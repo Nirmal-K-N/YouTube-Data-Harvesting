@@ -94,7 +94,6 @@ This project aims to develop a user-friendly Streamlit application that utilizes
 
 ![image](https://github.com/Nirmal-K-N/YouTube-Data-Harvesting/assets/150317924/3382e834-a475-42af-b970-47d90a55b6dd)
 
+## Conclusion ##
 
-
-
-
+Overall, this approach involves building a simple UI with Streamlit, retrieving data from the YouTube API, storing it in a MongoDB data lake, migrating it to a SQL data warehouse, querying the data warehouse with SQL, and displaying the data in the Streamlit app.
