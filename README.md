@@ -4,10 +4,10 @@ This project aims to develop a user-friendly Streamlit application that utilizes
 
 ## Skills take away From This Project ##
 
--> Python scripting, 
--> Data Collection,
--> MongoDB,
--> SQL,
--> Streamlit, 
--> API integration, 
--> Data Management.
+**-> Python scripting,** 
+**-> Data Collection,**
+**-> MongoDB,**
+**-> SQL,**
+**-> Streamlit,** 
+**-> API integration,** 
+**-> Data Management.**
