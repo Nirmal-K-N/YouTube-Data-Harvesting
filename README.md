@@ -6,7 +6,7 @@ This project aims to develop a user-friendly Streamlit application that utilizes
 
 **BATCH : DW73DW74**
 
-**PROJECT : 1**
+**GUVI PROJECT : 1**
 
 ## Skills take away From This Project ##
 
